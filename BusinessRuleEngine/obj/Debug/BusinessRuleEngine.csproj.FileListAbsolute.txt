@@ -1,0 +1,6 @@
+C:\Personal\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.exe.config
+C:\Personal\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.csprojResolveAssemblyReference.cache
+C:\Personal\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.exe
+C:\Personal\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.pdb
+C:\Personal\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.exe
+C:\Personal\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.pdb
